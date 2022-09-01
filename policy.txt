@@ -8,4 +8,4 @@ spec:
        syncRepo: https://github.com/GoogleCloudPlatform/csp-config-management/
        syncBranch: 1.0.0
        secretType: none
-       policyDir: "foo-corp"
+       policyDir: "ourteam"
